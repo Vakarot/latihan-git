@@ -7,5 +7,6 @@
 </head>
 <body>
 	<h1>Halo dunia</h1>
+	<h2>Fitur baru</h2>
 </body>
 </html>
